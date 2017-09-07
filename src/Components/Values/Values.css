@@ -1,0 +1,27 @@
+.Values .red {
+    color: red;
+}
+
+.Values .orange {
+    color: orange;
+}
+
+.Values .green {
+    color: green;
+}
+
+.Values .selected {
+    background-color: grey;
+}
+
+.Values ul {
+    margin: 0 20px;
+    padding: 0;
+    list-style: none;
+    border: 1px solid #CCC;
+}
+
+.Values li {
+    padding: 10px;
+    cursor: pointer;
+}

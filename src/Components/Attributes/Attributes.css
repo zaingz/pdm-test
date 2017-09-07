@@ -1,0 +1,19 @@
+.Attributes {
+
+}
+
+.Attributes ul{
+    margin: 0 20px;
+    padding: 0;
+    list-style: none;
+    border: 1px solid #CCC;
+}
+
+.Attributes li{
+    padding: 20px;
+    cursor: pointer;
+}
+
+.Attributes .selected {
+    background-color: grey;
+}
